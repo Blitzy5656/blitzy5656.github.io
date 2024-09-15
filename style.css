@@ -21,7 +21,7 @@
   background-color: white;
   color: black;
   white-space: pre;
-  padding: 0 2px 0 3px;
+  padding: 0 3px 0 3px;
   width: 100%; 
 }
 
@@ -30,7 +30,7 @@
   color: white;
   white-space: pre;
   font-size: 18px;
-  padding: 0 2px 0 3px;
+  padding: 0 3px 0 3px;
 }
 
 .nanotext {
