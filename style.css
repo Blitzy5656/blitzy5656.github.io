@@ -40,7 +40,8 @@
 }
 
 .fr {
-  float: right;
+float: right;
+padding: 0 100px 0 0;
 }
 
 pre.font {
