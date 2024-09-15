@@ -1,0 +1,44 @@
+ html {
+  background-color: #000;
+  color: #c2c2c2;
+  float: left;
+  box-sizing: border-box;
+  font-size: 24px;
+  height: 100%;
+  width: 100%;
+}
+
+.select {
+  background-color: #ebebeb;
+  color: black;
+  white-space: pre;
+  padding: 0 2px 0 3px;
+  animation: blink 1.5s infinite;
+}
+
+.nanotb {
+  font-family: 'share tech mono';
+  background-color: white;
+  color: black;
+  white-space: pre;
+  padding: 0 2px 0 3px;
+}
+
+.nano {
+  font-family: 'share tech mono';
+  color: white;
+  white-space: pre;
+  font-size: 18px;
+  padding: 0 2px 0 3px;
+}
+
+.nanotext {
+  font-family: 'share tech mono';
+  color: white;
+  white-space: pre;
+  font-size: 18px;
+}
+
+pre.font {
+  font-family: 'VT323';
+}
