@@ -21,7 +21,7 @@
   background-color: white;
   white-space: pre;
   color: black;
-  width: 100%; 
+  width: 50%; 
 }
 
 .nano {
@@ -42,7 +42,6 @@
 .fr {
   float: right;
   padding-right: 35px;
-  font-size: 1vw;
 }
 
 pre.font {
