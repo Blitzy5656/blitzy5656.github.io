@@ -1,1 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Henry Graff</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+  
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Reddit+Sans:ital,wght@0,200..900;1,200..900&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Reddit+Sans:ital,wght@0,200..900;1,200..900&family=VT323&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+  
+  @keyframes blink {
+     0% {
+        opacity: 1;
+     }
+     50% {
+         opacity: 0;
+     }
+    100% {
+        opacity: 1;
+    }
+  }
+  
+  html {
+  background-color: #000;
+  color: #c2c2c2;
+  float: left;
+  box-sizing: border-box;
+  font-size: 24px;
+  height: 100%;
+  width: 100%;
+}
+
+.select {
+  background-color: #ebebeb;
+  color: black;
+  white-space: pre;
+  padding: 0 2px 0 3px;
+  animation: blink 1.5s infinite;
+}
+
+.nanotb {
+  font-family: 'share tech mono';
+  background-color: white;
+  color: black;
+  white-space: pre;
+  padding: 0 2px 0 3px;
+}
+
+.nano {
+  font-family: 'share tech mono';
+  color: white;
+  white-space: pre;
+  font-size: 18px;
+  padding: 0 2px 0 3px;
+}
+
+.nanotext {
+  font-family: 'share tech mono';
+  color: white;
+  white-space: pre;
+  font-size: 18px;
+}
+
+pre.font {
+  font-family: 'VT323';
+}
+</style>
+  
+<body>
+  <pre class="font">
+Arch Linux 6.10.7-arch1-1 (tty1)
+    
+archiso login: root (automatic login)
+    
+To install <span style="color:cyan">Arch Linux</span> follow the installation guide: 
+https://wiki.archlinux.org/title/Installation_guide
+    
+For WI-FI, authenticate to the wireless network using the <span style="color:purple">iwctl</span> utility.
+For mobile broadband (WWAN) modems, connect with the <span style="color:purple">mmcli</span> utility.
+Ethernet, WLAN, and WWAN interfaces using DHCP should work automatically. 
+    
+After connecting to the internet, the installation guide can be accessed
+via the convenience script <span style="color:purple">Installation_guide</span>. 
+    
+<span style="color:#db5454">root</span>@archiso ~ # <span style="color:#db5454">!WARNING!</span> FOREIGN FILES DETECTED AT /bin/nano 
+    
+OPEN? (y/n)
+    
+|<span class="select">y</span>| |n|
+  
+scanning for files at /bin/nano... 
+file found at /bin/nano/BWPHG! 
+opening file at /bin/nano/BWPHG...</pre>
+  <span class="nanotb">  GNU nano 7.2                                                       BWPHG                                                          Modified  </span>
+  <div class="nanotext">
+My name is Henry Graff. I have 1 brother and 1 dog. My dogs name is George, he is a mini aussie doodle and he is around 4 1/2 years old.
+My favorite thing to do is play video games, ost of the time I play with my friends. 
+One thing most people dont know about me is that i am on a rock climbing team. I am interested in climbing, video games, coding, and writing.
+And I know that you can't just install and run nano right away but just roll with it okay?<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  </div>  
+  <div class="nano">
+  <span class="nanotb">^G</span> Help         <span class="nanotb">^O</span> Write Out    <span class="nanotb">^W</span> Where Is     <span class="nanotb">^K</span> Cut          <span class="nanotb">^T</span> Execute      <span class="nanotb">^C</span> Location     <span class="nanotb">^M-U</span> Undo 
+  <span class="nanotb">^X</span> Exit         <span class="nanotb">^R</span> Read File    <span class="nanotb">^\</span> Replace      <span class="nanotb">^U</span> Paste        <span class="nanotb">^J</span> Justify      <span class="nanotb">^/</span> Go To Line   <span class="nanotb">^M-E</span> Redo </div>
+</body>
+</html>
 # blitzy5656.github.io
