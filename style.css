@@ -19,6 +19,7 @@
 .nanotb {
   font-family: 'share tech mono';
   background-color: white;
+  white-space: pre;
   color: black;
   width: 100%; 
 }
@@ -41,10 +42,6 @@
 .fr {
   float: right;
   padding-right: 35px;
-}
-
-.ca {
-  align: center;
 }
 
 pre.font {
