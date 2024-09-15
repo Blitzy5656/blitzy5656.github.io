@@ -36,12 +36,11 @@
   font-family: 'share tech mono';
   color: white;
   white-space: pre;
-   font-size: 18px;
+  font-size: 18px;
 }
 
 .fr {
   float: right;
-  padding-right: 25px;
 }
 
 pre.font {
