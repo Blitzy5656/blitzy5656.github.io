@@ -11,7 +11,6 @@
 .select {
   background-color: #ebebeb;
   color: black;
-  white-space: pre;
   padding: 0 2px 0 3px;
   animation: select 1.5s infinite;
 }
